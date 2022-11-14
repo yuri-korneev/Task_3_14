@@ -7,11 +7,11 @@ LICENSE: [MIT](license.md)
 ---
 
 ## <span style="color:brown">Содержание</span>
-1. [Что такое GIT?](/add.md)
-2. [Основы GIT](/add.md)
-3. [Установка](/add.md)
-4. [Настройка](/add.md)
-5. [Создание репозитория](/add.md)
+1. [Что такое Git?](/git_meaning.md)
+2. [Основы Git](/git_basics.md)
+3. [Установка](/git_installing.md)
+4. [Настройка](/git_setting.md)
+5. [Создание репозитория](/repository.md)
 6. Основные команды
     1. [add (добавление файлов)](/add.md)
     2. [commit (внесение изменений)](/commit.md)
@@ -25,7 +25,7 @@ LICENSE: [MIT](license.md)
     1. [remote (создание удаленного репозитория)](/remote.md)
     2. [push и pull (отправка и получение изменений)](/push_pull.md)
     3. [merge origin (слияние удалённого репозитория с локальным)](/merge_origin.md)
-8. [Заключение](/add.md)
+8. [Заключение](/summary.md)
 ---
 
 
